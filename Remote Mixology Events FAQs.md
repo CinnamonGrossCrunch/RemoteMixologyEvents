@@ -4,7 +4,7 @@ _This page outlines what Remote Mixology Events are, how to sign your team up fo
 
 ### **"Ok, so what *are* Remote Mixology Events!?"**
 
-> "These are a great way to bring your team together by having a synchronized lesson of crafting a cocktail (and/or mocktail!) no matter how far and wide your team is distributed!  GitHub's resident Craft Cocktail Bartender(@cinnmaongrosscrunch), curates, bottles, labels, packs, and ships all-inclusive Cocktail Kits to Hubber door-steps in the USA and Canada. These arrive 1-2 days ahead of the scheduled event. 
+> "These are a great way to bring your team together by having a synchronized lesson of crafting cocktails (and/or mocktails!) no matter how far and wide your team is distributed!  GitHub's resident Craft Cocktail Bartender(@cinnmaongrosscrunch), curates, bottles, labels, packs, and ships all-inclusive GitHub-branded Cocktail Kits to Hubber door-steps in the USA and Canada. These arrive 1-2 days ahead of the scheduled event. 
  The day of the event, Matt is there to go through the ingredients one by one, including a short explanation of how they're made and their importance to the cocktail, as well as the main spirit's background, fun facts etc. This is then followed by professional bartending techniques to assemble and serve the cocktail."
 
 ____________________________
@@ -16,7 +16,7 @@ ____________________________
 
 
 ### **"How far out should these events be booked?"**
-> "At least two weeks head's up is ideal for planning purposes. This includes having a final head count and mailing list. Costs for shipping tend to go up markedly for shorter turnaround."
+> "At least two weeks head's up is ideal for planning purposes. This includes having a final head count and mailing list. Costs for shipping tend to go up markedly for shorter turnaround.  There is more flexibilty for teams located in the immediate Bay Area, and for those teams who wish to purchase their own cockatil/mocktail ingredients"
 ____________________________
 
 
