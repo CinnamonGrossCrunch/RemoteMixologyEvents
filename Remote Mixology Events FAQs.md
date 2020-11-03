@@ -4,25 +4,32 @@ _This page outlines what Remote Mixology Events are, how to sign your team up fo
 
 ### **"Ok, so what *are* Remote Mixology Events!?"**
 
-> "These are a great way to bring your team together by having a synchronized lesson of crafting cocktails (and/or mocktails!) no matter how far and wide your team is distributed!  GitHub's resident Craft Cocktail Bartender(@cinnmaongrosscrunch), curates, bottles, labels, packs, and ships all-inclusive GitHub-branded Cocktail Kits to Hubber door-steps in the USA and Canada. These arrive 1-2 days ahead of the scheduled event. 
- The day of the event, Matt is there to go through the ingredients one by one, including a short explanation of how they're made and their importance to the cocktail, as well as the main spirit's background, fun facts etc. This is then followed by professional bartending techniques to assemble and serve the cocktail."
+> "These are a great way to bring your team together by having a synchronized lesson of crafting cocktails (and/or mocktails!) no matter how far and wide your team is distributed!  Have your team receive curated, hand-crafted, all-inclusive Cocktail Kits (includes the necessary bar tools!) shipped to their door-steps. These arrive 1-2 days ahead of the scheduled event. 
+On the day of the event, we will go through the ingredients one by one, including an explanation of their importance to the cocktail, as well as the main spirit's background, fun facts etc. This is then followed by a step-by-step proces showing professional bartending techniques to assemble and serve the cocktail."
 
 ____________________________
 ### **"Some of our team members don't drink, is a mocktail version of your cocktail kits available?"**
 > 
-> "ABSOLUTELY! These kinds of requests are encouraged to make certain that everyone is included. There are tons of delicious options for  alcoholic substitutes!
-[Check out the cocktail/mocktail list here!](https://github.com/github/RemoteMixologyEvents/blob/master/Cocktail%20%26%20Mocktail%20Kit%20Options.md)
+> "ABSOLUTELY! These kinds of requests are encouraged to make certain that everyone is included. There are tons of delicious options for alcoholic substitutes!
+Depending on the chosen cocktail, other requests pertaining to diet and allergy can be accomodated as well!
 ____________________________
 
 
 ### **"How far out should these events be booked?"**
-> "At least two weeks head's up is ideal for planning purposes. This includes having a final head count and mailing list. Costs for shipping tend to go up markedly for shorter turnaround.  There is more flexibilty for teams located in the immediate Bay Area, and for those teams who wish to purchase their own cockatil/mocktail ingredients"
+> "At least two weeks head's up is required for planning purposes. This includes having a final head count and mailing list two weeks in advance as a lot goes into sourcing materials and ingredients for each event. Costs for shipping tend to go up markedly for shorter turnaround.  There is more flexibilty for teams located in the immediate Bay Area, and for those teams who wish to purchase the ingredients for their own cockatil/mocktail ingredients"
 ____________________________
 
 
 ### **"How is the event's Cocktail/Mocktail chosen?"**
 > 
-> I have growing list of cocktails to choose from that are tailored for these Remote Mixology Events. These cocktails balance factors like ingredient quality, shelf life, ship-ability, and cost.  Choosing from these cocktails greatly simplifies event preparation. However, If you and your team have something unique in mind, I would love to collaborate to see what might be a practical solution! Unique requests will increase the event cost total.
+> I have a few seasonal options specifically tailored for these Remote Mixology Events. These cocktails balance factors like ingredient quality, shelf life, ship-ability, and cost. If you and your team have something unique in mind, I would love to collaborate to see what might be a practical solution! The best way to determine which cocktail/mocktail is right for your tea, is to reach out to [@CinnamonGrossCrunch](https://github.slack.com/team/UJQSXHZL1)
+
+----------------------------
+
+
+
+
+
 
 [Check out the cocktail/mocktail list here!](https://github.com/github/RemoteMixologyEvents/blob/master/Cocktail%20%26%20Mocktail%20Kit%20Options.md)
 ____________________________
@@ -33,36 +40,32 @@ ____________________________
 
 ### **What all comes in the Cocktail/Mocktail Kit?**
 > 
-> - Quality Cocktail (or mocktail!) Ingredients,
-> - Produce
-> - Cocktail Shaker
-> - Strainer
+> - Quality Cocktail (or mocktail!) Ingredients
+> - Produce (Citrus/Hebs)
+> - Cocktail Shaker Set
+> - Cocktail Strainer
 > - Measuring jigger
 ____________________________
-### **"By the way... I really like the Mona/Octocat art I saw on another team's cocktail kit. Is that available for our event?"** 
 
-> 	"Yes! I create an original themed Mona illustration to go with each cocktail kit that I then use for the cocktail kit labeling."
-____________________________
 ### **We would love to participate in the cocktail/mocktail class portion but time and/or budget are running too short for cocktail kits.  Is it possible to send a shopping list for team members to pick up on their own for us to mix along with?**
 
-> Certainly. This works better for smaller teams where coordination can be more streamlined.  
-____________________________
-
-### **Is it possible to just send a special bottle of a nice spirit with GitHub Branding to team members without the added kit components?**
-
-> Sure thing!  See below for how to get quotes for various special requests!
+> Certainly! This works better for smaller teams where coordination can be more streamlined.  
 
 ____________________________
 ### **Ok, how much do I need to budget for one of these Remote Mixology Events?**
 
 > There are several parameters that determine the cost to host a Remote Mixology Event including the location of attendees(where Cocktail Kits are shipped to), total number of attendees, turnaround time, and special requests. 
 
-|  |  To get the most accurate quote for your event, contact Matt Gross directly via Slack [@CinnamonGrossCrunch](https://github.slack.com/team/UJQSXHZL1) or email at CinnamonGrossCrunch@GitHub.com with these four bits of Information:|
+|  |  To get the most accurate quote for your event, contact Matt Gross directly via Slack [@CinnamonGrossCrunch](https://github.slack.com/team/UJQSXHZL1) or email at CinnamonGrossCrunch@GitHub.com with these three bits of information:|
 |---|---------|
 |1.| What is the date of my event? | 
 | 2.| How many people will be in attendance?|
 | 3. | Where geographically are the event attendees? (e.g. SF Bay Area, East Coast, International, etc.)|
-| 4. | What kind of special service does my event require? (e.g. Unique Cocktail, Shopping List, no kits required, no bar tools in kits, etc.) |
 
-
+For better understanding of how quotes are generated you can consult the following table:
+| Description | Quantity | Cost
+| ----------- | ----------- |-----------|
+| Cocktail Kit Cost | # of Attendees | Varies based on ingredients of chosen cocktail or mocktail
+|Shipping/Courier Cost* | # of packages shipped| US$15.00/ attendee in “Local Courier Area” (within 10 miles of San Francisco) US$25.00/ attendee outside of “Local Courier Area”
+Service Fee (Administrative, Labor, Handling, and Event Execution Costs) | # of attendees | US$20.00 per attendee (with a minimum guarantee of $750 per event)
  ____________________________
