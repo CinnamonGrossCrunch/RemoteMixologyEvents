@@ -1,15 +1,31 @@
 # Cocktail Selections for Remote Mixology Events! 
 
 This is an evolving list of cocktails available for Cocktail Kit Delivery. If you have a question about any cocktail, mocktail, ingredients, or substitutions, just reach out to Matt [via Slack](https://github.slack.com/team/UJQSXHZL1) or[ Email!](cinnamongrosscrunch@github.com)
-### **London Fog**
+
+
+### **Autumn Sour**
  
- * St. George Botanivore Gin [or Ritual Zero-Proof Gin](https://www.ritualzeroproof.com/products/ritual-gin-alternative)
+ * Gin OR Bourbon
  
  * Fresh Lemon Juice
 
-*  Earl Gray-infused Vanilla Gomme
+*  Artisan Maple Sryup
 
-* Premium Ginger Beer
+* Herbal Bitters
+
+* Eggwhite (Vegan Option Available too!)
+________
+
+
+### **London Fog**
+ 
+ * Gin
+ 
+ * Fresh Lemon Juice
+
+* Artisinal Ginger Vanilla Syrup
+
+* Early Gray Tincture
 
 * Fresh Thyme
 
@@ -17,8 +33,7 @@ ________
 
 ### **Rosemary Goldrush**
 
-* St. George Breaking & Entering Bourbon + Rye Blend/ 
-or [Ritual Zero-Proof Bourbon](https://www.ritualzeroproof.com/products/ritual-whiskey-alternative?gclid=CjwKCAjw4MP5BRBtEiwASfwAL0KQXTPXriapy-GbtWMS4A1RDWY0M4epHdmclevtPtFvdBAcWGEYRxoCNsQQAvD_BwE)
+* Bourbon
 
  * Rosemary-infused California Honey
 
@@ -32,24 +47,22 @@ ________
 
 ### **Paloma Picante**
 
-* Del Maguey Mezcal Vida or [Ritual Zero-Proof Tequila](https://www.ritualzeroproof.com/products/ritual-tequila-alternative)
-
-* Fresh Lime Juice
+* Tequila OR mezcal
 
 * Blue Agave Nectar
 
-* Sparkling Grapefuit
+* Sparkling Grapefuit Soda
 
 * Fresh Spicy Jalepeno Pepper (optional ingredient for spicier cocktails)
 ________
 
 ### **Carribean Daiquiri**
 
-* Rhum Agricole Or [Lyres Non-alcoholic Rum](https://www.bespokepost.com/store/lyres-dark-cane-non-alcoholic-rum?b=true)
+* Rum 
 
 * Fresh Lime Juice
 
-* Basil Gomme
+* Basil Grapefruit Simple Syrup
 
 * Caribbean Falernum (ginger, clove & almond-flavored liquer)
 
