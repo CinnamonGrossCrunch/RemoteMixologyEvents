@@ -14,6 +14,8 @@ This is an evolving list of cocktails available for Cocktail Kit Delivery. If yo
 * Herbal Bitters
 
 * Eggwhite (Vegan Option Available too!)
+
+* Fresh Rosemary
 ________
 
 
@@ -65,5 +67,7 @@ ________
 * Basil Grapefruit Simple Syrup
 
 * Caribbean Falernum (ginger, clove & almond-flavored liquer)
+
+* Candied Ginger
 
 ________
