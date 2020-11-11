@@ -1,6 +1,6 @@
 # **Team Mixology **Events** FAQ**
 
-This page answerS questions regarding what Team Mixology Events are, how to sign your team up for them, what fun things to expect from booking, and how much an event might cost.
+This page answers questions regarding what Team Mixology Events are, how to sign your team up for them, what fun things to expect from booking, and how much an event might cost.
 
 #### **"Ok, so what *are* Team Mixology Events!?"**
 
@@ -22,7 +22,7 @@ Depending on the chosen cocktail, other requests pertaining to diet and allergy 
 #### **"How is the event's Cocktail/Mocktail chosen?"**
 > 
 > I have a few seasonal options specifically tailored for these 
-Mixology Events. These cocktails balance factors like ingredient quality, shelf life, ship-ability, and cost. If you and your team have something unique in mind, I would love to collaborate to see what might be a practical solution! The best way to determine which cocktail/mocktail is right for your tea, is to reach out to [@CinnamonGrossCrunch](https://github.slack.com/team/UJQSXHZL1)
+Mixology Events. These cocktails balance factors like ingredient quality, shelf life, ship-ability, and cost. If you and your team have something unique in mind, I would love to collaborate to see what might be a practical solution! The best way to determine which cocktail/mocktail is right for your team, is to reach out to [@CinnamonGrossCrunch](https://github.slack.com/team/UJQSXHZL1)
 
 
 
