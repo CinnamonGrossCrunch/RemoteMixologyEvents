@@ -3,19 +3,23 @@
 This is an evolving list of cocktails available for Cocktail Kit Delivery. If you have a question about any cocktail, mocktail, ingredients, or substitutions, just reach out to Matt [via Slack](https://github.slack.com/team/UJQSXHZL1) or[ Email!](cinnamongrosscrunch@github.com)
 
 
-### **Autumn Sour**
+### **Holiday Sour**
  
- * Gin OR Bourbon
+ * Bourbon
  
  * Fresh Lemon Juice
 
-*  Artisan Maple Sryup
+*  Barrel-aged Maple Syrup
 
 * Herbal Bitters
 
 * Eggwhite (Vegan Option Available too!)
 
-* Fresh Rosemary
+* Nutmeg or Cinnamon
+
+
+
+
 ________
 
 
