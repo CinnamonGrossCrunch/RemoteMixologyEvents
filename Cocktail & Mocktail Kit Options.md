@@ -3,7 +3,7 @@
 This is an evolving list of cocktails available for Cocktail Kit Delivery. If you have a question about any cocktail, mocktail, ingredients, or substitutions, just reach out to Matt [via Slack](https://github.slack.com/team/UJQSXHZL1) or[ Email!](cinnamongrosscrunch@github.com)
 
 
-### **Holiday Sour**
+### **Holiday Sour** (Season Cocktail through December!)
  
  * Bourbon
  
